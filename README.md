@@ -1,5 +1,6 @@
 # Bay Clinic Appointment Prediction - Reducing No-Shows
 This repository explores predicting patient appointment no-shows at Bay Clinic, a medical center with 25,000 employees and 3 million patient visits. The MedicalCentre.csv dataset contains patient information such as age, gender, appointment date, and disease history.
+
 ![image](https://github.com/sarax0/clinic-no-show-prediction/assets/122404545/c325dd24-a8e7-4b61-bb76-e4435005d828)
 
 This project, utilizes R to build and evaluate models for predicting appointment no-shows.
