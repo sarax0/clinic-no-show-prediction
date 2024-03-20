@@ -5,8 +5,8 @@ This repository explores predicting patient appointment no-shows at Bay Clinic, 
 This project, utilizes R to build and evaluate models for predicting appointment no-shows.
 
 # Project Structure
-```bayclinic_prediction.R``` - This script contains all the code for data preparation, feature engineering, model development, evaluation, and visualization.
-Data: MedicalCentre.csv - The dataset containing patient appointment information.
+```R Script: bayclinic_prediction.R``` - This script contains all the code for data preparation, feature engineering, model development, evaluation, and visualization.
+```Data: MedicalCentre.csv``` - The dataset containing patient appointment information.
 
 # Project Overview
 The project is divided into two parts:
